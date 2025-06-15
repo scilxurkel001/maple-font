@@ -47,7 +47,7 @@
     "zero": "ignore"
   },
   "nerd_font": {
-    "enable": true,
+    "enable": flase,
     "version": "3.4.0",
     "mono": false,
     "use_font_patcher": false,
@@ -58,7 +58,7 @@
   },
   "cn": {
     "enable": true,
-    "with_nerd_font": true,
+    "with_nerd_font": false,
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
