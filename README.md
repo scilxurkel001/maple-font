@@ -1,3 +1,6 @@
+Make a "CN Narrow" version only for myself.
+Below is the original README file:
+------
 ![Cover](./resources/header.png)
 
 <p align="center">
