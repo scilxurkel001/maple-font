@@ -1,3 +1,6 @@
+为个人使用制作了一份中文窄字距的版本。
+下面是原README文件：
+------
 ![封面图](./resources/header.png)
 
 <p align="center">
