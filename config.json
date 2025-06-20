@@ -1,7 +1,7 @@
 {
   "$schema": "./source/schema.json",
   "family_name": "Maple Mono CN Narrow",
-  "use_hinted": false,
+  "use_hinted": true,
   "pool_size": 4,
   "ligature": false,
   "feature_freeze": {
@@ -62,7 +62,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
-    "use_hinted": false,
+    "use_hinted": true,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
