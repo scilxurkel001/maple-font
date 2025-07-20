@@ -63,7 +63,7 @@
     "clean_cache": false,
     "narrow": true,
     "use_hinted": true,
-    "use_static_base_font": true,
+    "use_static_base_font": false,
     "scale_factor": 1.0
   }
 }
